@@ -19,23 +19,9 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
       <br>Python
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="icons/js.svg" width="40"/>
-      </a>
+     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <br>JavaScript
     </td>   
-    <td align="center" width="96">
-      <a>
-        <img src="icons/php.svg" width="40"/>
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/c.svg" width="40"/>
-      </a>
-      <br>C
-    </td>
   </tr>
 </table>
 
