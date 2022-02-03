@@ -9,7 +9,7 @@
 Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 
 ## 🚀 Mes compétences
-**Programming Languages**
+**Langages de programmation**
 <table>
   <tr>
     <td align="center" width="96">
@@ -24,7 +24,6 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 </table>
 
 **Frameworks & Libraries**
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -56,37 +55,6 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
         <img src="icons/bootstrap.svg" width="40"/>
       </a>
       <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
-**DevOps**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/aws.png" width="40"/>
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/azure.svg" width="40"/>
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/heroku.svg" width="40"/>
-      </a>
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/netlify.svg" width="40"/>
-      </a>
-      <br>Netlify
     </td>
   </tr>
 </table>
