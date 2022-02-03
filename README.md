@@ -27,34 +27,16 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <table>
   <tr>
     <td align="center" width="96">
-      <a>
-        <img src="icons/django.svg" width="40"/>
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/react.svg" width="40"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/nodejs.svg" width="40"/>
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/electron.svg" width="40"/>
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/bootstrap.svg" width="40"/>
-      </a>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <br>React
     </td>
   </tr>
 </table>
@@ -90,16 +72,14 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
   </tr>
 </table>
 
-**Graphic Tools**
-
+**IDE et outils**
 <table>
   <tr>
     <td align="center" width="96">
-      <a>
-        <img src="icons/illustrator.svg" width="40"/>
-      </a>
-      <br>Illustrator
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <BR>VS Code
     </td>
+
     <td align="center" width="96">
       <a>
         <img src="icons/photoshop.svg" width="40"/>
@@ -115,27 +95,3 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
   </tr>
 </table>
 
-**Other Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/gulp.svg" width="25"/>
-      </a>
-      <br>Gulp
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/webpack.svg" width="40"/>
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/git.svg" width="40"/>
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
