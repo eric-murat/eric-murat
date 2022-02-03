@@ -78,7 +78,7 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
   <tr>
     <td align="center" width="96">
       <a href="https://www.eclipse.org/ide/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
+        <img width="30px" src="svg/Eclipse2014_RGB.svg" alt="VS Code" />
       </a>
       <br>Eclipse
     </td>   
