@@ -13,7 +13,9 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
       <br>Java
     </td>
     <td align="center" width="96">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </a>
       <br>Javascript
     </td>   
   </tr>
