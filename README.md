@@ -1,11 +1,5 @@
 ### Hi there 👋 I'm Eric and I'm a Java developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
 Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 
 ## 🚀 Mes compétences
@@ -82,6 +76,12 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 **IDE et outils**
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="https://www.eclipse.org/ide/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
+      </a>
+      <br>Eclipse
+    </td>   
     <td align="center" width="96">
       <a href="https://code.visualstudio.com/">
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
