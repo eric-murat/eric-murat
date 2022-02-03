@@ -20,7 +20,6 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
     </td>
     <td align="center" width="96">
      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <br>JavaScript
     </td>   
   </tr>
 </table>
