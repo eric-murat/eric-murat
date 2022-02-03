@@ -13,10 +13,8 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <table>
   <tr>
     <td align="center" width="96">
-      <a>
-        <img src="icons/python.svg" width="40"/>
-      </a>
-      <br>Python
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
