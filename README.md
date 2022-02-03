@@ -12,14 +12,15 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 **Programming Languages**
 <table>
   <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="icons/python.svg" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <br>Javascript
     </td>   
   </tr>
 </table>
