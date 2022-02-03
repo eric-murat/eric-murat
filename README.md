@@ -77,11 +77,19 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <table>
   <tr>
     <td align="center" width="96">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <br>Javascript
+    </td>   
+    <td align="center" width="96">
         <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> </a>
 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" href="https://code.visualstudio.com/" />
       <BR>VS Code
     </td>
+    <td align="center" width="96">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <br>Javascript
+    </td>   
   </tr>
 </table>
 
