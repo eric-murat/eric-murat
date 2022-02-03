@@ -13,7 +13,9 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <table>
   <tr>
     <td align="center" width="96">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <a href="https://www.java.com">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      </a>
       <br>Java
     </td>
     <td align="center" width="96">
@@ -85,6 +87,18 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
       </a>
       <br>VS Code
+    </td>   
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+      </a>
+      <br>git
+    </td>   
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+      </a>
+      <br>GitHub
     </td>   
 
     <td align="center" width="96">
