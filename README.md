@@ -105,3 +105,22 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
   </tr>
 </table>
 
+**Bases de données**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.oracle.com/fr/index.html">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+      </a>
+      <br>Oracle
+    </td>   
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/fr/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </a>
+      <br>MySQL
+    </td>   
+  </tr>
+</table>
+
+
