@@ -77,21 +77,8 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <table>
   <tr>
     <td align="center" width="96">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" href="https://code.visualstudio.com/" />
       <BR>VS Code
-    </td>
-
-    <td align="center" width="96">
-      <a>
-        <img src="icons/photoshop.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/figma.svg" width="30"/>
-      </a>
-      <br>Figma
     </td>
   </tr>
 </table>
