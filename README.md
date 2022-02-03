@@ -44,30 +44,23 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 </table>
 
 **Markup & Stylesheet**
-
 <table>
   <tr>
     <td align="center" width="96">
-      <a>
-        <img src="icons/html.svg" width="40"/>
+      <a href="https://html.spec.whatwg.org/multipage/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="icons/css.svg" width="40"/>
+      <a href="https://www.w3.org/Style/CSS/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="icons/sass.svg" width="40"/>
-      </a>
-      <br>SASS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/markdown.svg" width="40"/>
+      <a href="https://daringfireball.net/projects/markdown/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="CSS" />
       </a>
       <br>Markdown
     </td>
