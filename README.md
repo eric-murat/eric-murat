@@ -42,12 +42,6 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
       </a>
       <br>Node.js
     </td>
-    <td align="center" width="96">
-      <a href="https://fr.reactjs.org/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      </a>
-      <br>React
-    </td>
   </tr>
 </table>
 
