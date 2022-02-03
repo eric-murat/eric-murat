@@ -29,15 +29,27 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <table>
   <tr>
     <td align="center" width="96">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+      <a href="https://spring.io/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+      </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <a href="https://nodejs.org/en/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <a href="https://fr.reactjs.org/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </a>
       <br>React
     </td>
   </tr>
@@ -48,19 +60,19 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
   <tr>
     <td align="center" width="96">
       <a href="https://html.spec.whatwg.org/multipage/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="https://www.w3.org/Style/CSS/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="https://daringfireball.net/projects/markdown/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="CSS" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
       </a>
       <br>Markdown
     </td>
