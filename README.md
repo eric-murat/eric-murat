@@ -122,7 +122,7 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
     </td>   
     <td align="center" width="96">
       <a href="https://www.talend.com/fr/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talend/talend-original.svg" />
+        <img width="30px" src="svg/talend-icon.svg" />
       </a>
       <br>Talend
     </td>   
