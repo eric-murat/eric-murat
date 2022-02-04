@@ -121,6 +121,7 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
 <a href="https://www.linkedin.com/in/ericmurat/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
 </a>
+ &nbsp; &nbsp;
 <a href="mailto:emurat@free.fr">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
