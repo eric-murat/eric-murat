@@ -117,7 +117,7 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
   </tr>
 </table>
 
-### 📫 Contactez moi !
+## 📫 Contactez moi !
 <a href="https://www.linkedin.com/in/ericmurat/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
 </a>
