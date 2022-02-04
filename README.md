@@ -98,7 +98,7 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
     </td>   
     <td align="center" width="96">
       <a href="https://wordpress.org/">
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
       </a>
       <br>WordPress
     </td>   
