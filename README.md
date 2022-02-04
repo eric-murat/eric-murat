@@ -96,6 +96,12 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
       </a>
       <br>GitHub
     </td>   
+    <td align="center" width="96">
+      <a href="https://wordpress.org/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+      </a>
+      <br>WordPress
+    </td>   
   </tr>
 </table>
 
@@ -113,6 +119,12 @@ Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       </a>
       <br>MySQL
+    </td>   
+    <td align="center" width="96">
+      <a href="https://www.talend.com/fr/">
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talend/talend-original.svg" />
+      </a>
+      <br>Talend
     </td>   
   </tr>
 </table>
