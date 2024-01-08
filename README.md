@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Eric and I'm a Java developer
 
 Pour plus de détails, lien vers mon CV : https://eric-murat.github.io/
+
 Version basée sur le thème Bootstrap "Freelance" : https://eric-murat.github.io/bs-ex03/
 
 ## 🚀 Mes compétences
